@@ -1,0 +1,3 @@
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/cmake-build-debug/CMakeFiles/Program5___sample.dir
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/cmake-build-debug/CMakeFiles/rebuild_cache.dir

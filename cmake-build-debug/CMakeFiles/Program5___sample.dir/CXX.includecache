@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/ArrayStack.h
+StackInterface.h
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/StackInterface.h
+cassert
+-
+
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/StackInterface.h
+
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/stack_driver.cpp
+iostream
+-
+string
+-
+ArrayStack.h
+C:/Users/tomsh/OneDrive/Desktop/Program5 - sample/ArrayStack.h
+
